@@ -1,0 +1,6 @@
+[Server]
+ID=Phantom Pack Trust List
+
+[MainUSER]
+foxaxu2023Helloworld=https://developer.foxaxu.com/CERT/PRODUCTS.pcert
+foxaxuCommunitySign=https://developer.foxaxu.com/Public/CertTrust.pcert
